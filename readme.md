@@ -1,4 +1,4 @@
-<h1>DEV MASTER</h1>
+<h1>Golden Dev</h1>
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">A Senior Full-Stack devloper</h3>
 
@@ -72,15 +72,6 @@
   </div>
 </div>
 </p>
-
----
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profullstackdeveloper)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 
 
 ## 🌱 Make it work, make it right, make it fast
