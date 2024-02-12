@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">A Senior Full-Stack devloper</h3>
 
-<div align="center"> 
-  <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
-  <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</div>
-
-
-
 ---  
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
